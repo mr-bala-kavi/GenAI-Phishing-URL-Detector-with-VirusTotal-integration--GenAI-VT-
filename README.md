@@ -1,4 +1,4 @@
-# 🛡️ AI Phishing URL Detector (GPT + VirusTotal)
+# 🛡️ GenAI Phishing URL Detector (GPT + VirusTotal)
 
 A powerful web application that combines OpenAI's advanced language models with VirusTotal's threat intelligence to detect and analyze phishing URLs with high accuracy.
 
